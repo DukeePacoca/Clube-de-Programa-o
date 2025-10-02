@@ -51,7 +51,7 @@ def menu ():
         
     print(area)
     
-    continuar = input ('Deseja jogar novamente? ')
+    continuar = input ('Deseja calcular novamente? ')
     if continuar == 'sim':
         menu()
         
